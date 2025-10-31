@@ -1,0 +1,17 @@
+# How to forge your github activity graph
+
+copy the contents to fix.sh
+
+create a git repo
+
+add the script to the repo
+
+create an empty dt.txt
+
+run git add dt.txt
+
+run dt.sh 2 or 3 times
+
+push to github
+
+(probably set the repo to private too, and change the dates in the top of the script)
